@@ -1,4 +1,4 @@
-Reseqrch Question: 
+Research Question: 
 “Is there a relationship between an NBA team’s performance 
 (win rate, league standings (1st, 2nd…) and economic growth - such as unemployment rate, population growth, and GDP growth - in their respective city?
 
